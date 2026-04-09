@@ -12,8 +12,7 @@ Thumbs.db
 .env
 *.env
 /.env
-evn
-/env/
+env
 /venv/
 __pycache__
 *.pyc   
